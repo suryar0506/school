@@ -1,0 +1,30 @@
+marquee {
+    background-color: aqua;
+}
+
+#map {
+    float: left;
+    margin-left: 2%;
+}
+
+#image {
+    margin-left: 2%;
+    float: left;
+}
+
+.list {
+    font-size: 20px;
+    color: crimson;
+}
+
+#headmaster {
+    border-radius: 90;
+}
+
+#contact {
+    background-color: cornsilk;
+}
+
+html {
+    scroll-behavior: smooth;
+}
